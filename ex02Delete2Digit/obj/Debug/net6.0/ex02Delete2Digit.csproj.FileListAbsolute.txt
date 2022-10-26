@@ -1,0 +1,15 @@
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.csproj.AssemblyReference.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.AssemblyInfoInputs.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.AssemblyInfo.cs
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.csproj.CoreCompileInputs.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\bin\Debug\net6.0\ex02Delete2Digit.exe
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\bin\Debug\net6.0\ex02Delete2Digit.deps.json
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\bin\Debug\net6.0\ex02Delete2Digit.runtimeconfig.json
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\bin\Debug\net6.0\ex02Delete2Digit.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\bin\Debug\net6.0\ex02Delete2Digit.pdb
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\refint\ex02Delete2Digit.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.pdb
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ex02Delete2Digit.genruntimeconfig.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex02Delete2Digit\obj\Debug\net6.0\ref\ex02Delete2Digit.dll
