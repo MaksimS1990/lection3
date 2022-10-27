@@ -9,6 +9,6 @@ int random = new Random().Next(100, 1000);
 Console.WriteLine(random);
 int firstDigit = random / 100;
 int secondDigit = random % 10;
+int thirdDigit = (firstDigit * 10) + secondDigit;
 
-Console.Write(firstDigit);
-Console.Write(secondDigit);
+Console.WriteLine(thirdDigit);
