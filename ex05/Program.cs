@@ -11,5 +11,5 @@ if (result == 0){
     Console.WriteLine("Да, число " + number2 + " кратно числу " + number1);
 }
 else{
-    Console.WriteLine("Нет, число " + number2 + " не кратно числу " + number1);
+    Console.WriteLine("Нет, число " + number2 + " не кратно числу " + number1 + " .Остаток составляет " + result);
 }
