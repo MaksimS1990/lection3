@@ -1,0 +1,15 @@
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\bin\Debug\net6.0\ex06.exe
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\bin\Debug\net6.0\ex06.deps.json
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\bin\Debug\net6.0\ex06.runtimeconfig.json
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\bin\Debug\net6.0\ex06.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\bin\Debug\net6.0\ex06.pdb
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.csproj.AssemblyReference.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.AssemblyInfoInputs.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.AssemblyInfo.cs
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.csproj.CoreCompileInputs.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\refint\ex06.dll
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.pdb
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ex06.genruntimeconfig.cache
+C:\Users\sipatov\Desktop\Сипатов\Вёрстка\Practic\lection3\ex06\obj\Debug\net6.0\ref\ex06.dll
