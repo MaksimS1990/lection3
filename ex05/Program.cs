@@ -2,9 +2,14 @@
 // Если число 2 не кратно числу, то программа выводит остаток от деления.
 Console.WriteLine("Введите первое число: ");
 int number1 = int.Parse(Console.ReadLine()!);
+
 Console.WriteLine("Введите второе число: ");
 int number2 = int.Parse(Console.ReadLine()!);
 
+int result = number1 % number2;
+
+void res(int number1, int number2)
+{
 int result = number1 % number2;
 
 if (result == 0){
@@ -13,3 +18,6 @@ if (result == 0){
 else{
     Console.WriteLine("Нет, число " + number2 + " не кратно числу " + number1 + " .Остаток составляет " + result);
 }
+
+}
+res(number1, number2);
